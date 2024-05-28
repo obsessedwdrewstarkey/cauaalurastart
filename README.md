@@ -1,5 +1,5 @@
 # olá, bem vindo ao meu perfil ★
-meu nome é cauã
+meu nome é **cauã**
 
 - Estou estudando na Alura;
 - Estou me desenvolvendo na linguagem JavaScript;
